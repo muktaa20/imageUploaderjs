@@ -14,11 +14,6 @@ An intuitive, responsive, and fully-functional image uploader built using **HTML
 - 💅 Hover effects and smooth transitions for better UX
 - 🔀 Drag-and-drop to reorder images (with `SortableJS`)
 
-## 📸 Demo
-
-![Demo Preview](demo-preview.gif)  
-_Optional: Insert a demo video or gif here._
-
 ## 🧠 Tech Stack
 
 - HTML5
